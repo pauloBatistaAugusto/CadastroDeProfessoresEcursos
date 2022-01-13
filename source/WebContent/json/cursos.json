@@ -1,0 +1,9 @@
+{
+"cursos":
+	[
+		{"codigo":"1","nome":"Java","diasHorarios":"segundas 19hrs","professor":"Paulo"},
+		{"codigo":"2","nome":"C#","diasHorarios":"segundas 19hrs","professor":"Rodrigo"},
+		{"codigo":"3","nome":"VB","diasHorarios":"segundas 19hrs","professor":"Eliamar"},
+		{"codigo":"3","nome":"Python","diasHorarios":"segundas 19hrs","professor":"Glauco"}
+	]
+}
